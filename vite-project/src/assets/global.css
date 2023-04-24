@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  min-width: 1366px;/* 屏幕最小宽度 这样当屏幕减小时下方会出现滚轮 就不会使得角色列表的箭头挪到下面了 */
+}
